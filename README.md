@@ -26,8 +26,3 @@ The experimental results affirm the reliability of our approach, showcasing high
 ## Paper
 For a detailed explanation of the methodology, dataset, experiments, and results, please refer to our paper: [SignSense: A Traffic Sign Recognition Tool for Autonomous Vehicles on Indian Roads Using Deep Learning Techniques](https://www.irjmets.com/paperdetail.php?paperId=cfc1a1f8eec9fae2d2996253ba83efde&title=SIGNSENSE%3A+A+TRAFFIC+SIGN+RECOGNITION+TOOL+FOR+AUTONOMOUS+VEHICLES+ON+INDIAN+ROADS+USING+DEEP+LEARNING+TECHNIQUES&authpr=CHANDAN+B+RAM).
 
-## Acknowledgments
-- Ministry of Road Transport and Highways, Kaggle  for the dataset.
-- The YOLO community for their continuous development and support.
-
-We hope SignSense significantly contributes to the development of safer and more efficient autonomous vehicle systems on Indian roads. Happy coding!
